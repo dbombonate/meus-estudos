@@ -53,12 +53,12 @@ Neste repositório, vou organizar meus estudos voltados a desenvolvimento WEB fo
 A medida que vou avançando, vou adicionando novos tópicos e diretórios;
 
 * **Node.JS** - Aplicações
-	* [ ] API/Rest;
+	* [X] API/Rest;
 	* [ ] CRUD;
 	* [ ] Microserviço;
 
 *  **GIT**
-	* [ ] Comandos;
+	* [X] Comandos;
 
 * **DevOps**
 	* [ ] Pipelines;
